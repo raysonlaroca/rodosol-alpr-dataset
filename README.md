@@ -1,6 +1,6 @@
 # RodoSol-ALPR Dataset
 
-This dataset, called RodoSol-ALPR dataset, contains 20,000 images captured by static cameras located at pay tolls owned by the *Rodovia do Sol* (RodoSol) concessionaire (hence the name of the dataset), which
+This dataset, called RodoSol-ALPR dataset, contains 20,000 images captured by static cameras located at pay tolls owned by the *Rodovia do Sol* (RodoSol) concessionaire, which
 operates 67.5 kilometers of a highway (ES-060) in the Brazilian state of Espírito Santo. It has been introduced in our VISAPP paper (To appear).
 
 There are images of different types of vehicles (e.g., cars, motorcycles, buses and trucks), captured during the day and night, from distinct lanes, on clear and rainy days, and the distance from the vehicle to the camera varies slightly. All images have a resolution of 1,280 × 720 pixels.
