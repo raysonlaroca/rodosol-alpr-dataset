@@ -20,7 +20,7 @@ Regarding privacy concerns related to our dataset, we remark that in Brazil the 
 
 The full details are in our [paper](./pdfs/laroca2022cross.pdf).
 
-## How to obtain the Dataset
+## How to obtain the dataset
 
 The RodoSol-ALPR dataset is released for academic research only and is free to researchers from educational or research institutes for **non-commercial purposes**. 
 
@@ -49,9 +49,9 @@ If you use the RodoSol-ALPR dataset in your research, please cite our paper:
 }
 ```
 
-## Related Works
+## Related publications
 
-A list of all articles on ALPR published by us can be seen [here](https://scholar.google.com/scholar?as_q=&as_epq=&as_oq=plate+license+vehicle&as_eq=&as_occt=title&as_sauthors=Rayson+Laroca&as_publication=&as_ylo=2018&as_yhi=&hl=pt-BR&as_sdt=0%2C5).
+A list of all papers on ALPR published by us can be seen [here](https://scholar.google.com/scholar?as_q=&as_epq=&as_oq=plate+license+vehicle&as_eq=&as_occt=title&as_sauthors=Rayson+Laroca&as_publication=&as_ylo=2018&as_yhi=&hl=pt-BR&as_sdt=0%2C5).
 
 ## Contact
 
