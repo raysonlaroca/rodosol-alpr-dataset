@@ -51,7 +51,7 @@ If you use the RodoSol-ALPR dataset in your research, please cite our paper:
 
 ## Related Works
 
-A list of all articles on ALPR published by us can be seen [here](https://scholar.google.com/scholar?as_q=license+plate&as_epq=&as_oq=&as_eq=&as_occt=title&as_sauthors=Rayson+Laroca&as_publication=&as_ylo=&as_yhi=&hl=pt-BR&as_sdt=0%2C5).
+A list of all articles on ALPR published by us can be seen [here](https://scholar.google.com/scholar?as_q=&as_epq=&as_oq=plate+license+vehicle&as_eq=&as_occt=title&as_sauthors=Rayson+Laroca&as_publication=&as_ylo=2018&as_yhi=&hl=pt-BR&as_sdt=0%2C5).
 
 ## Contact
 
