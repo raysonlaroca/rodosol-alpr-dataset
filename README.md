@@ -1,6 +1,6 @@
 # RodoSol-ALPR Dataset
 
-This dataset, called RodoSol-ALPR dataset, contains 20,000 images captured by static cameras located at pay tolls owned by the *Rodovia do Sol* (RodoSol) concessionaire, which operates 67.5 kilometers of a highway (ES-060) in the Brazilian state of Espírito Santo. It has been introduced in our VISAPP paper (To appear).
+This dataset, called RodoSol-ALPR dataset, contains 20,000 images captured by static cameras located at pay tolls owned by the *Rodovia do Sol* (RodoSol) concessionaire, which operates 67.5 kilometers of a highway (ES-060) in the Brazilian state of Espírito Santo. It has been introduced in our VISAPP paper [[PDF]](./pdfs/laroca2022cross.pdf).
 
 There are images of different types of vehicles (e.g., cars, motorcycles, buses and trucks), captured during the day and night, from distinct lanes, on clear and rainy days, and the distance from the vehicle to the camera varies slightly. All images have a resolution of 1,280 × 720 pixels.
 
@@ -17,6 +17,8 @@ We randomly split the RodoSol-ALPR dataset as follows: 8,000 images for training
 Every image has the following information available in a text file: the vehicle’s type (car or motorcycle), the LP’s layout (Brazilian or Mercosul), its text (e.g., ABC-1234), and the position (x, y) of each of its four corners. We labeled the corners instead of just the LP bounding box to enable the training of methods that explore LP rectification, as well as the application of a wider range of data augmentation techniques.
 
 Regarding privacy concerns related to our dataset, we remark that in Brazil the LPs are related to the respective vehicles, i.e., no public information is available about the vehicle drivers/owners. Moreover, all human faces (e.g., drivers or RodoSol’s employees) were manually redacted (i.e., blurred) in each image.
+
+The full details are in our [paper](./pdfs/laroca2022cross.pdf).
 
 ## How to obtain the Dataset
 
@@ -46,6 +48,10 @@ If you use the RodoSol-ALPR dataset in your research, please cite our paper:
   issn={2184-4321},
 }
 ```
+
+## Related Works
+
+A list of other papers on ALPR published by our research group can be seen [[here]](https://scholar.google.com/scholar?as_q=license+plate&as_epq=&as_oq=&as_eq=&as_occt=title&as_sauthors=Rayson+Laroca&as_publication=&as_ylo=&as_yhi=&hl=pt-BR&as_sdt=0%2C5).
 
 ## Contact
 
