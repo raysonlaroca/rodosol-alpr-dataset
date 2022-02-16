@@ -12,6 +12,10 @@ Here are some examples from the dataset:
 
 The 20,000 images are divided as follows: 5,000 images of cars with Brazilian LPs; 5,000 images of motorcycles with Brazilian LPs; 5,000 images of cars with Mercosur LPs; and 5,000 images of motorcycles with Mercosur LPs. For the sake of simplicity of definitions, here “car” refers to any vehicle with four wheels or more (e.g., passenger cars, vans, buses, trucks, among others), while “motorcycle” refers to both motorcycles and motorized tricycles.
 
+Below, we show some cropped LPs for better viewing. Observe the diversity of the RodoSol-ALPR dataset in terms of LP characteristics:
+<img src="./media/samples-cropped.png"/>
+<br>
+
 We randomly split the RodoSol-ALPR dataset as follows: 8,000 images for training, 8,000 images for testing and 4,000 images for validation, following the split protocol (i.e., 40%/40%/20%) adopted in the SSIG-SegPlate and [UFPR-ALPR](https://github.com/raysonlaroca/ufpr-alpr-dataset) datasets. We preserved the percentage of samples for each vehicle type and LP layout, for example, there are 2,000 images of cars with Brazilian LPs in each of the training and test sets, and 1,000 images in the validation one. For reproducibility purposes, the subsets generated are explicitly available along with the proposed dataset.
 
 Every image has the following information available in a text file: the vehicle’s type (car or motorcycle), the LP’s layout (Brazilian or Mercosul), its text (e.g., ABC-1234), and the position (x, y) of each of its four corners. We labeled the corners instead of just the LP bounding box to enable the training of methods that explore LP rectification, as well as the application of a wider range of data augmentation techniques.
