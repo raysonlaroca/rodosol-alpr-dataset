@@ -7,7 +7,7 @@ There are images of different types of vehicles (e.g., cars, motorcycles, buses 
 An important feature of the proposed dataset is that it has images of two different LP layouts: Brazilian and Mercosur (to maintain consistency with previous works, we refer to “Brazilian” as the standard used in Brazil before the adoption of the Mercosur standard). All Brazilian LPs consist of three letters followed by four digits, while the initial pattern adopted in Brazil for Mercosur LPs consists of 3 letters, 1 digit, 1 letter and 2 digits, in that order. In both layouts, car LPs have the seven characters arranged in one row, whereas motorcycle LPs have three characters in one row and four characters in another. Even though these LP layouts are very similar in shape and size, there are considerable differences in their colors and also in the font of the characters.
 
 Here are some examples from the dataset:  
-<img src="./media/samples.png"/> Note: we show a zoomed-in version of the vehicle’s LP in the bottom-right region of the images in the last column for better viewing of the LP layouts.
+<img src="./media/samples.png"/> Note: we show a zoomed-in version of the vehicle’s LP in the lower right region of the images in the last column for better viewing of the LP layouts.
 <br>
 
 The 20,000 images are divided as follows: 5,000 images of cars with Brazilian LPs; 5,000 images of motorcycles with Brazilian LPs; 5,000 images of cars with Mercosur LPs; and 5,000 images of motorcycles with Mercosur LPs. For the sake of simplicity of definitions, here “car” refers to any vehicle with four wheels or more (e.g., passenger cars, vans, buses, trucks, among others), while “motorcycle” refers to both motorcycles and motorized tricycles.
