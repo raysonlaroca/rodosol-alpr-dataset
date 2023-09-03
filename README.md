@@ -28,9 +28,9 @@ The full details are in our [paper](./pdfs/laroca2022cross.pdf).
 
 The RodoSol-ALPR dataset is released for academic research only and is free to researchers from educational or research institutes for **non-commercial purposes**. 
 
-To be able to download the dataset, please read carefully [**this license agreement**](./pdfs/license-agreement.pdf), fill it out and send it back to the first author ([rblsantos@inf.ufpr.br](mailto:rblsantos@inf.ufpr.br)). **Your e-mail must be sent from a valid university account** (.edu, .ac or similar).
+To be able to download the dataset, please read carefully [**this license agreement**](./pdfs/license-agreement.pdf), fill it out, and send it back to the first author ([rblsantos@inf.ufpr.br](mailto:rblsantos@inf.ufpr.br)). **Your e-mail must be sent from a valid university account** (.edu, .ac or similar).
 
-In general, you will receive a download link within 1-3 business days. Failure to follow the instructions may result in no response.
+In general, you will receive a download link within 1-5 business days. Failure to follow the instructions may result in no response.
 
 ## Citation
 
