@@ -36,7 +36,7 @@ In general, you will receive a download link within 1-5 business days. Failure t
 
 If you use the RodoSol-ALPR dataset in your research, please cite our paper:
 
-* R. Laroca, E. V. Cardoso, D. R. Lucio, V. Estevam, and D. Menotti, “On the Cross-dataset Generalization in License Plate Recognition” in *International Conference on Computer Vision Theory and Applications (VISAPP)*, Feb 2022, pp. 166-178. [[arXiv]](https://arxiv.org/abs/2201.00267) [[SciTePress]](https://doi.org/10.5220/0010846800003124)
+* R. Laroca, E. V. Cardoso, D. R. Lucio, V. Estevam, and D. Menotti, “On the Cross-dataset Generalization in License Plate Recognition” in *International Conference on Computer Vision Theory and Applications (VISAPP)*, pp. 166-178, Feb 2022. [[arXiv]](https://arxiv.org/abs/2201.00267) [[SciTePress]](https://doi.org/10.5220/0010846800003124)
 
 ```
 @inproceedings{laroca2022cross,
