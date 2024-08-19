@@ -62,4 +62,4 @@ A list of all our papers on ALPR can be seen [here](https://scholar.google.com/s
 
 ## Contact
 
-Please contact Rayson Laroca ([rblsantos@inf.ufpr.br](mailto:rblsantos@inf.ufpr.br)) with questions or comments.
+Please contact Rayson Laroca ([rayson@ppgia.pucpr.br](mailto:rayson@ppgia.pucpr.br)) with questions or comments.
