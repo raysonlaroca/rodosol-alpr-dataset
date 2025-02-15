@@ -30,7 +30,7 @@ The RodoSol-ALPR dataset is released for academic research only and is free to r
 
 To be able to download the dataset, please read carefully [**this license agreement**](./pdfs/license-agreement.pdf), fill it out, and send it back to the first author ([rblsantos@inf.ufpr.br](mailto:rblsantos@inf.ufpr.br)). **Your e-mail must be sent from a valid university account** (.edu, .ac or similar).
 
-In general, you will receive a download link within 1-5 business days. If you do not find it in your inbox after this period, please check your spam/junk folder. Failure to follow the instructions may result in no response.
+In general, you will receive a download link within 1-5 business days. If you do not receive it within this timeframe, please check your spam/junk folder. Failure to follow the instructions above may result in no response.
 
 ## Citation
 
