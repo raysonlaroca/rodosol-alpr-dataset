@@ -38,7 +38,7 @@ If you use the RodoSol-ALPR dataset in your research, please cite our paper:
 
 * R. Laroca, E. V. Cardoso, D. R. Lucio, V. Estevam, and D. Menotti, “On the Cross-dataset Generalization in License Plate Recognition” in *International Conference on Computer Vision Theory and Applications (VISAPP)*, pp. 166-178, Feb 2022. [[arXiv]](https://arxiv.org/abs/2201.00267) [[SciTePress]](https://doi.org/10.5220/0010846800003124)
 
-```
+```bibtex
 @inproceedings{laroca2022cross,
   title = {On the Cross-dataset Generalization in License Plate Recognition},
   author = {R. {Laroca} and E. V. {Cardoso} and D. R. {Lucio} and V. {Estevam} and D. {Menotti}},
